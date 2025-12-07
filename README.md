@@ -21,5 +21,3 @@ After that it should be all fine. To run it localy, in the app folder use:
 streamlit run app.py
 ```
 
-### Demo
-https://huggingface.co/spaces/firica/legalai
